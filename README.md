@@ -28,7 +28,7 @@
 
 <a href="https://www.linkedin.com/in/syed-sherjeel/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sherjeelhashmi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href='syed-sherjeel.medium.com'><img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
+<a href="https://syed-sherjeel.medium.com/"><img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
 <!---
 Syed-Sherjeel/Syed-Sherjeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
