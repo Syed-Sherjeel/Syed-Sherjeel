@@ -24,8 +24,6 @@
 </p>
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sherjeel&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
 ### 📫 &nbsp; How to reach me:
