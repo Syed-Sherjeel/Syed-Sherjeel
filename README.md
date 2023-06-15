@@ -20,12 +20,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Syed-Sherjeel&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Syed-Sherjeel&theme=dark&hide_border=true" width = 400>
 </p>
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sherjeel&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-</div>
 
 ### 📫 &nbsp; How to reach me:
 
